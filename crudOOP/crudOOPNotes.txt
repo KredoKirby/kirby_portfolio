@@ -1,0 +1,5 @@
+3 files:
+ - UI / view files = this is the display file or the output.
+ - Action files = if(isset(...)); Calculation or the process.
+ - Class file = methods, properties, sql and 'extends'
+
